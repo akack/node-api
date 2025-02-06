@@ -21,11 +21,11 @@ This is a RESTful API built with Node.js and Express.js that allows users to per
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/akack/product-crud-api.git
+   git clone https://github.com/akack/node-api.git
    ```
 2. Navigate into the project directory:
    ```bash
-   cd product-crud-api
+   cd node-api
    ```
 3. Install dependencies:
    ```bash
@@ -134,7 +134,7 @@ DELETE /products/:id
 ## Environment Variables
 Create a `.env` file in the root directory and add the following variables:
 ```
-PORT=7000
+PORT=7001
 ```
 
 ## License
